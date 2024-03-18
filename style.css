@@ -10,7 +10,7 @@ body {
     :root {
         .cores {--verde: #6FFF57;} 
     }
-.h1{
+h1{
     background-color: #475081;
     color: rgb(214, 89, 16);
 }
